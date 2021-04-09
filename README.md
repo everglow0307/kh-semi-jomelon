@@ -1,2 +1,5 @@
-# kh-semi-jomelon
-kh정보교육원에서 수행한 세미프로젝트로, jsp와 servlet으로 구현한 향수쇼핑몰입니다.
+# kh-SemiProject-jomelon
+:triangular_flag_on_post: 프로젝트명: Jo melon
+:triangular_flag_on_post: 팀원: 이은지, 윤연오, 이정민, 임성수, 정지수 (총 5명)
+:triangular_flag_on_post: 구현기간 : 2021년 02월 01일 ~ 2021년 02월 18일
+
