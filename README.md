@@ -37,7 +37,10 @@
  - 공지사항/리뷰 게시판/QnA게시판/사용자팁/건의사항
  - 작성자/제목/내용으로 필터 설정 후 키워드 검색
  - 페이징
- 
+ </br></br>
+ ##DB 설계
+ ![image](https://user-images.githubusercontent.com/71758210/114139029-759fc780-9949-11eb-9fb3-254662d35d2f.png)
+
  
 
  
