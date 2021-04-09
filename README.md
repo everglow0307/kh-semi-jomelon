@@ -2,7 +2,7 @@
 :triangular_flag_on_post: **프로젝트명: Jo melon   
 :triangular_flag_on_post: 팀원: 이은지, 윤연오, 이정민, 임성수, 정지수 (총 5명)   
 :triangular_flag_on_post: 구현기간 : 2021년 02월 01일 ~ 2021년 02월 18일**   
-   
+      
 ## 기술 스택
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache_Tomcat9.0-F8DC75?style=flat-square&logo=Apache_Tomcat&logoColor=white"/></a>
@@ -14,4 +14,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jsp-77216F?style=flat-square&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Servlet-F54997?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-
+      
+      ###주제: 향수쇼핑몰
+      > kh정보교육원에서 Jsp와 Servlet을 이용하여 Model2방식으로 구현한 향수쇼핑몰 세미프로젝트입니다.
