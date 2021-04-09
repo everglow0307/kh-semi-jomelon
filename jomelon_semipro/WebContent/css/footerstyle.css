@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+#hr1 { width: 1450px; height: 2px; background-color: rgb(199, 199, 199); margin-top: 50px;}
+#hr2 {margin-top: 20px; float: left; width: 0px; height: 250px; background-color: rgb(199, 199, 199);}
+.foot1 {margin-top: 10px; width: 30%; float: left; margin-left: 5%;}
+.foot2 {margin-left: 4%; margin-top: 50px; width: 25%; float: left;}
+.foot3 {margin-left: 4%; margin-top: 45px; width: 30%; float: left;}
