@@ -5,7 +5,7 @@
    
 ## 기술 스택
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache_Tomcat9.0-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ApacheTomcat9.0-F8DC75?style=flat-square&logo=Apache_Tomcat&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
