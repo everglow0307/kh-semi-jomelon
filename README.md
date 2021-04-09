@@ -16,4 +16,4 @@
 <img src="https://img.shields.io/badge/Servlet-F54997?style=flat-square&logo=JavaScript&logoColor=white"/></a>
       
       ###주제: 향수쇼핑몰
-      > kh정보교육원에서 Jsp와 Servlet을 이용하여 Model2방식으로 구현한 향수쇼핑몰 세미프로젝트입니다.
+       kh정보교육원에서 Jsp와 Servlet을 이용하여 Model2방식으로 구현한 향수쇼핑몰 세미프로젝트입니다.
