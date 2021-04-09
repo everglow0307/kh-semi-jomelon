@@ -17,6 +17,15 @@
 
 ## 구현 기능
 
-:large_blue_circle: 이은지
-:ballot_box_with_check:
+:ballot_box_with_check: 회원가입   
+ - 유효성 검사
+ - 아이디, 이메일 중복 확인
+ - 비밀번호 SHA-256 암호화 DB저장
+ - 다음 카카오 주소 API   
+
+:ballot_box_with_check: 마이페이지
+ - 비밀번호 인증 후 회원정보 수정 및 탈퇴
+
+:ballot_box_with_check: 
+ 
 
