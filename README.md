@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jsp-77216F?style=flat-square&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Servlet-F54997?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-      
-      
-##개발 환경
+
+## 구현 기능
+
+:large_blue_circle: 이은지
+:ballot_box_with_check:
+
