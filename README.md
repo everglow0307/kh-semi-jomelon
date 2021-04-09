@@ -4,5 +4,5 @@
 :triangular_flag_on_post: 구현기간 : 2021년 02월 01일 ~ 2021년 02월 18일**   
    
 ## 기술 스택
-<img src="https://img.shields.io/badge/code_JAVA?style=flat-square&logo=simpleicons에서_code&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp
 
